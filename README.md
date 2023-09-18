@@ -24,8 +24,8 @@ We will clean and preprocess the data
 Will try to analyse the data using Histogram and Bar Chart.
 And will show word cloud for each genre.
 
-#4.** Feature Engineering**
+#4.**Feature Engineering**
   In this step we will remove unnecessary column which are not necessary for our model
 
-#5.** Model Selection & Training**
+#5.**Model Selection & Training**
 In this section we will try to apply CountVectorizer and TF-IDF technique and try to predict accuracy on model.
